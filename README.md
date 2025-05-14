@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Dev
+
+1. Clonar el repositorio
+2. Instalar las dependencias con `npm install`
+3. Iniciar el servidor con `ng serve`
+4. Navegar a `http://localhost:4200/`
+
+
